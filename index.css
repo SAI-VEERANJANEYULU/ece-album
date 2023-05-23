@@ -1,0 +1,26 @@
+body{
+  
+}
+img{
+    width: 30%;
+    height: 200px;
+    float: left;
+    margin: 1.66%;
+    filter: drop-shadow(0 0 20px rgb(0, 255, 38));
+
+}
+p{
+    
+    color: black;
+    border-radius: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    font-weight:800 ;
+    border-bottom: 2px solid red;
+    padding-bottom: 20px;
+    filter: drop-shadow(0 0 20px red);
+   
+}
+
